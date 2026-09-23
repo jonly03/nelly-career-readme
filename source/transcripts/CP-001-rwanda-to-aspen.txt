@@ -1,0 +1,9 @@
+CP-001 — Rwanda to College to Aspen Offer
+PRIMARY-SOURCE TRANSCRIPT PLACEHOLDER
+
+This path is reserved for the verbatim first-person transcript from the career-excavation conversation.
+
+PROVENANCE WARNING:
+Do not reconstruct, paraphrase, clean, or silently “improve” source testimony here. A verbatim source file should only be committed from the actual transcript text. Until that exact transcript is available for export into the repository, this placeholder prevents a downstream synthesis from being mistaken for primary evidence.
+
+Checkpoint synthesis: ../../checkpoints/CP-001-rwanda-to-aspen.md
